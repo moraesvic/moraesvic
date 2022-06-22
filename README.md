@@ -34,7 +34,7 @@
 
 <div align=center>
 <a href="https://www.linkedin.com/in/victor-moraes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0000ff?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:victor@vulpi-ideas.com"><img src="https://img.shields.io/badge/%20EMAIL%20-ff0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:talkto@moraesvic.com"><img src="https://img.shields.io/badge/%20EMAIL%20-ff0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div> <!-- contact div -->
 
 <hr>
