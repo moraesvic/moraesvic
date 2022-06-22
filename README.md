@@ -13,15 +13,11 @@
 
 <img alt="PostgreSQL" title="PostgreSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 
-<img alt="C" title="C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-
 <img alt="HTML 5" title="HTML 5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 <img alt="CSS 3" title="CSS 3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <img alt="JavaScript" title="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img alt="Bootstrap" title="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
 <img alt="Linux" title="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
@@ -36,13 +32,3 @@
 <a href="https://www.linkedin.com/in/victor-moraes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0000ff?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:talkto@moraesvic.com"><img src="https://img.shields.io/badge/%20EMAIL%20-ff0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div> <!-- contact div -->
-
-<hr>
-
-<div>
-<p>Hello, folks! My name is Victor. My current goal is to use full stack web development to create products that generate value for language learners. Besides my IT abilities, I have a solid training in Linguistics, in English, Portuguese and German.</p>
-
-<p>I am looking for job opportunities as a developer and open for mentorships in the field of free and open-source software.</p>
-
-<p>Feel free to visit <a href="https://vulpi-ideas.com">my homepage (under construction)</a></p>
-</div> <!-- text div -->
